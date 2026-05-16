@@ -1,4 +1,4 @@
-Hi, I’m LAAGU / Sukrit Thakur, a passionate developer from India focused on building modern, scalable, and user-friendly applications.<br>💻 I enjoy working with React, Node.js, Next.js, Scripting Technologies, and I’m constantly exploring new technologies to improve my craft.<br>🚀 I’ve built projects ranging from web apps and APIs to custom game scripts and automation tools.<br>📚 Always learning, always creating — feel free to check out my repositories or collaborate on something cool!
+Hi, I’m LAAGU / Sukrit Thakur, a passionate developer from India focused on building modern, scalable, and user-friendly applications.<br>💻 I enjoy working with React, Typescript, Scripting Technologies, and I’m constantly exploring new technologies to improve my craft.<br>🚀 I’ve built projects ranging from web apps and APIs to custom game scripts and automation tools.<br>📚 Always learning, always creating — feel free to check out my repositories or collaborate on something cool!
 
 
 ## 🌐 Socials:
